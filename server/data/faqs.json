@@ -1,0 +1,175 @@
+[
+  {
+    "id": "faq-1",
+    "question": "Who can participate in Patrician Hackathon 2026?",
+    "answer": "Any currently enrolled undergraduate or postgraduate student with a valid student identification card from any recognized university or college across India can participate. Interdisciplinary teams are highly encouraged.",
+    "category": "Eligibility",
+    "source": "Patrician Hackathon Eligibility Guidelines",
+    "keywords": [
+      "eligibility",
+      "participate",
+      "who",
+      "student",
+      "undergraduate",
+      "postgraduate",
+      "college",
+      "id card",
+      "degree"
+    ]
+  },
+  {
+    "id": "faq-2",
+    "question": "How many members can be in a team?",
+    "answer": "Teams must consist of 3 to 5 members (including 1 designated Team Leader). You can register with members from different academic departments or different colleges.",
+    "category": "Team & Registration",
+    "source": "Team Formation Rules",
+    "keywords": [
+      "team size",
+      "members",
+      "limit",
+      "minimum",
+      "maximum",
+      "leader",
+      "departments",
+      "cross-college"
+    ]
+  },
+  {
+    "id": "faq-3",
+    "question": "Is there a registration fee?",
+    "answer": "Yes, a nominal registration fee of ₹100 per team member (e.g., ₹300 for 3 members, ₹400 for 4 members, ₹500 for 5 members) is applicable to confirm participation and cover hackathon kits, food, high-speed connectivity, and merchandise during the offline sprint.",
+    "category": "Payment & Fees",
+    "source": "Fee Structure & Inclusions",
+    "keywords": [
+      "fee",
+      "registration fee",
+      "price",
+      "cost",
+      "money",
+      "100",
+      "upi",
+      "payment",
+      "kit",
+      "food"
+    ]
+  },
+  {
+    "id": "faq-4",
+    "question": "Can students from other colleges or outside Tamil Nadu participate?",
+    "answer": "Yes! INNOVATERS 2026 is a nationwide technology hackathon open to students across Tamil Nadu and all other states of India.",
+    "category": "Eligibility",
+    "source": "Nationwide Participation Policy",
+    "keywords": [
+      "other colleges",
+      "outside tamil nadu",
+      "states",
+      "india",
+      "inter-college",
+      "different colleges"
+    ]
+  },
+  {
+    "id": "faq-5",
+    "question": "What technologies and programming languages can we use?",
+    "answer": "You have full liberty to use any tech stack: React, Vue, Angular, Node.js, Python, Flutter, Go, Rust, Web3, or cloud platforms. All open-source frameworks and public APIs are permitted, as long as the original code is authored during the event.",
+    "category": "Technical & Rules",
+    "source": "Technical Specifications",
+    "keywords": [
+      "tech stack",
+      "technologies",
+      "programming language",
+      "react",
+      "python",
+      "flutter",
+      "node",
+      "web3",
+      "apis"
+    ]
+  },
+  {
+    "id": "faq-6",
+    "question": "Is the hackathon online or offline?",
+    "answer": "Round 1 (Registration & Idea PPT Submission) is conducted online via our portal. Shortlisted squads are invited to the physical 24-hour prototype hackathon sprint on the Patrician College campus in Chennai.",
+    "category": "Event Format & Venue",
+    "source": "Event Roadmap & Logistics",
+    "keywords": [
+      "online",
+      "offline",
+      "venue",
+      "format",
+      "location",
+      "campus",
+      "chennai",
+      "round 1",
+      "round 2"
+    ]
+  },
+  {
+    "id": "faq-7",
+    "question": "What should we submit during registration?",
+    "answer": "During registration, teams submit their team details, chosen domain/problem statement, transaction reference ID, and a public Google Drive folder containing their PPT Pitch Deck (mandatory) and an optional 3-minute demo video. During the physical hackathon, teams will submit their working GitHub repository link.",
+    "category": "Submission",
+    "source": "Submission Requirements",
+    "keywords": [
+      "submit",
+      "submission",
+      "ppt",
+      "deck",
+      "google drive",
+      "github",
+      "pitch",
+      "requirements"
+    ]
+  },
+  {
+    "id": "faq-8",
+    "question": "Will participation certificates and swag be provided?",
+    "answer": "Yes, verified Certificates of Participation will be awarded to all registered attendees who participate in the hackathon, alongside exclusive swag, badges, and sponsor goodies. Finalists and winners receive physical trophies and Certificates of Merit.",
+    "category": "Certificates & Swag",
+    "source": "Certificates & Perks Guide",
+    "keywords": [
+      "certificate",
+      "certificates",
+      "swag",
+      "merchandise",
+      "goodies",
+      "participation",
+      "trophy"
+    ]
+  },
+  {
+    "id": "faq-9",
+    "question": "How will teams be judged and evaluated?",
+    "answer": "Submissions are objectively evaluated based on 5 weighted criteria: Innovation & Originality (30%), Technical Implementation (25%), Real-World Impact (20%), UI/UX Polish (15%), and Presentation & Live Pitch (10%).",
+    "category": "Judging",
+    "source": "Judging Rubric",
+    "keywords": [
+      "judging",
+      "evaluation",
+      "criteria",
+      "rubric",
+      "weights",
+      "scores",
+      "innovation",
+      "presentation"
+    ]
+  },
+  {
+    "id": "faq-10",
+    "question": "What are the prize amounts and rewards?",
+    "answer": "The total prize pool exceeds ₹1,00,000+ including ₹50,000 for 1st Place, ₹30,000 for 2nd Place, ₹20,000 for 3rd Place, and multiple ₹5,000 Special Category Awards (Best AI Solution, Best UI/UX, Best Innovation, Best Beginner Team, Best Social Impact).",
+    "category": "Prizes & Awards",
+    "source": "Prize Distribution Schedule",
+    "keywords": [
+      "prizes",
+      "cash prize",
+      "rewards",
+      "1st place",
+      "2nd place",
+      "3rd place",
+      "prize pool",
+      "100000",
+      "awards"
+    ]
+  }
+]
